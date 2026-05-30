@@ -2,7 +2,7 @@
 * @name DiscordHook
 * @author Dayun
 * @authorId 1168510098541391892
-* @version 1.0.6
+* @version 1.0.7
 * @description Discord Hooking Gui
 */
 
